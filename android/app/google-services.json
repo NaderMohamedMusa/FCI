@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349341836432",
+    "firebase_url": "https://faculty-fci.firebaseio.com",
+    "project_id": "faculty-fci",
+    "storage_bucket": "faculty-fci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349341836432:android:98118f3ba0da1fcaaee415",
+        "android_client_info": {
+          "package_name": "com.example.facultyfci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349341836432-9jh07ebui4g77mg2qemedbqp59s9hfhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcvUOeorH452i4btyVounm8fUYjIGWqV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349341836432-9jh07ebui4g77mg2qemedbqp59s9hfhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
